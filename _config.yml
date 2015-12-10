@@ -1,0 +1,21 @@
+# Site settings
+title: Graphs4DS
+email: ricardo.mansilla@me.com
+description: > # this means to ignore newlines until "baseurl:"
+    Material del curso de Optimizacion para la Maestria en Ciencias de datos del ITAM
+baseurl: "/project-name" # the subpath of your site, e.g. /blog/
+# url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: r1m4n
+github_username:  mansilla
+
+# Build settings
+# aarkdown: kramdown
+markdown: rdiscount
+
+highlighter: pygments
+
+permalink: pretty
+
+safe: true
+lsi: false
+
