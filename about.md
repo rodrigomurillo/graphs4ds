@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+El website contiene el material usado en el curso de Metodos de Optimizacion impartido en
+la Mestria de Ciencia de Datos del ITAM en el semestre enero-junio del
+2016.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+El codigo de fuente del sitio y del material en general puede
+encontrarse en el [github](https://github.com/mansilla/graphs4ds) del
+curso.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
