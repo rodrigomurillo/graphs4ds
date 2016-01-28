@@ -91,4 +91,26 @@ ningun mensaje de error entonces terminamos.
 
 **NOTA:** Sin embargo puede que hayan algunos warnings. Es normal :).
 
+## Docker
+
+Teniendo en cuenta que la instalacion y uso de Docker es requisito en la
+maestria creamos un repositorio con un setup basico para usar
+_graph-tool_ desde una imagen de Docker. Para esto corren el siguiente
+comando que basicamente descarga la imagen
+
+```shell
+docker pull riman/graph4ds
+```
+
+y luego corren la imagen y levantan una _shell_ en modo interactivo
+
+```shell
+docker run -i -t riman/graph4ds /bin/bash
+```
+
+Ahi deben tener la carpeta ```source``` que contiene todo el codigo de
+la clase.
+
+**NOTA:** El codigo en la imagen del repositorio se ira actualizando asi
+que deben ir haciendo ```pull``` para tener la ultima version.
 

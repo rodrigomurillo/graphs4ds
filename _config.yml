@@ -4,7 +4,7 @@ author: Ricardo Mansilla
 email: ricardo.mansilla@me.com
 description: > # this means to ignore newlines until "baseurl:"
     Material del curso de Optimizacion para la Maestria en Ciencias de Datos del ITAM
-baseurl: "/graphs4ds" # the subpath of your site, e.g. /blog/
+# baseurl: "/graphs4ds" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: r1m4n
 github_username:  mansilla

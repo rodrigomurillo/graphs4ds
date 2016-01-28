@@ -7,7 +7,6 @@
 #  - SciPy, NumPy, etc (apra analisis de datos)
 #  - graph-tool
 #
-# FROM ubuntu:15.04
 FROM jupyter/datascience-notebook
 
 MAINTAINER Ricardo Mansilla <ricardo.mansilla@me.com>
@@ -21,4 +20,4 @@ ADD graph-tool.list /etc/apt/sources.list.d/graph-tool.list
 RUN sudo apt-get update
 RUN sudo apt-get install -y --force-yes python-graph-tool
 
-WORKDIR /tutorials
+WORKDIR /source
