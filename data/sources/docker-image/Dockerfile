@@ -21,3 +21,4 @@ RUN sudo apt-get update
 RUN sudo apt-get install -y --force-yes python-graph-tool
 
 WORKDIR /source
+RUN sudo chmod a+w ../
