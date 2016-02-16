@@ -1,0 +1,32 @@
+MATCH (t:Tweet)-[:USING]->(s:Source)
+RETURN s.name as Source, count(t) as Count
+ORDER BY Count DESC
+LIMIT 5
+
+// ---------- que ha aparecido mas frecuentemente con #papaenmx
+
+MATCH (:Hashtag {name:'papaenmx'})-[:TAGS]->(:Tweet)<-[:TAGS]-(h:Hashtag)
+WHERE h.name <> 'papa'
+RETURN h.name AS Hashtag, COUNT(*) AS Count
+ORDER BY Count DESC
+LIMIT 5
+
+// ----------- top retweets
+
+MATCH (:Tweet)-[:RETWEETS]->(t:Tweet)
+WITH t, COUNT(*) AS Retweets
+ORDER BY Retweets DESC
+LIMIT 1
+MATCH (u:User)-[:POSTS]->(t)
+RETURN u.screen_name AS User, t.text AS Tweet, Retweets
+
+// -----------
+
+MATCH (bigdata:Hashtag {name:'papa'}), (oscon:Hashtag {name:'papaenmx'})
+MATCH p = shortestPath((bigdata)-[:TAGS*]-(oscon))
+RETURN p
+
+// -----------
+
+MATCH (n)
+DETACH DELETE n
