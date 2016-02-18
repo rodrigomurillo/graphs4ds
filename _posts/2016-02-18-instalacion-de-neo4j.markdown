@@ -12,8 +12,8 @@ Las instrucciones oficiales de instalacion estan
 [aqui](http://neo4j.com/download/). En realidad solo deben descargar el
 software (Comunity Edition) y seguir las instrucciones correspondientes
 
-  * [MacOSX](http://neo4j.com/download-thanks/?edition=community&flavour=windows&release=2.3.2&_ga=1.62530476.1425606667.1449185384#osx)
-  * [Linux/UNIX](http://neo4j.com/download-thanks/?edition=community&flavour=windows&release=2.3.2&_ga=1.62530476.1425606667.1449185384#unix)
+  * [MacOSX](http://neo4j.com/download-thanks/?edition=community&flavour=osx&release=2.3.2&_ga=1.62530476.1425606667.1449185384#osx)
+  * [Linux/UNIX](http://neo4j.com/download-thanks/?edition=community&flavour=unix&release=2.3.2&_ga=1.62530476.1425606667.1449185384#unix)
   * [Windows](http://neo4j.com/download-thanks/?edition=community&flavour=windows&release=2.3.2&_ga=1.62530476.1425606667.1449185384#winstall)
 
 Tambien les recomiendo ampliamente que lean el [libro](http://info.neotechnology.com/rs/neotechnology/images/GraphDatabases.pdf) (el cual es parte
