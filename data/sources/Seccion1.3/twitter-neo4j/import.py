@@ -20,11 +20,11 @@ graph.cypher.execute("CREATE CONSTRAINT ON (s:Source) ASSERT s.name IS UNIQUE;")
 # USING: curl -XPOST -u Nod7bgWxHL4WVUnDsygaBvBA2:WZGqJVenYRw9LcQp9Z21iTql9n0Z4uvjeKTw5uCjsgK4uZZ6En 'https://api.twitter.com/oauth2/token?grant_type=client_credentials'
 TWITTER_BEARER = ""
 # ----------------- alternative
-CONSUMER_KEY = "Nod7bgWxHL4WVUnDsygaBvBA2"
-CONSUMER_SECRET = "WZGqJVenYRw9LcQp9Z21iTql9n0Z4uvjeKTw5uCjsgK4uZZ6En"
-# personal keys
-access_token = "92349017-FUfpFuAisHKqLCvBgvuGN9cnATplJTIbACXIdJV66"
-access_token_secret = "aU6WugFfvMAn7j2Ssi6vTq9Ezv8XvqMnuijxSTS3kG5k2"
+CONSUMER_KEY = "0KSUZlmKe4Pt5qH1gHlaCf21Z"
+CONSUMER_SECRET = "5EZXvjV0v3rdNZV3rqM2Ae6jwKF7QdEyJyjZ10snBYWo35Xh03"
+# personal keys (you can get these at: http://graph4ds.herokuapp.com/)
+access_token = ""
+access_token_secret = ""
 
 
 # URL parameters.
