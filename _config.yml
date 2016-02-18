@@ -13,7 +13,7 @@ github_username:  mansilla
 markdown: kramdown
 # markdown: rdiscount
 
-highlighter: pygments
+highlighter: rouge
 
 permalink: pretty
 
