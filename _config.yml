@@ -10,8 +10,8 @@ twitter_username: r1m4n
 github_username:  mansilla
 
 # Build settings
-# aarkdown: kramdown
-markdown: rdiscount
+markdown: kramdown
+# markdown: rdiscount
 
 highlighter: pygments
 
