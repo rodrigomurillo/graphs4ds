@@ -1,0 +1,706 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "3twh-5u42",
+      "name" : "Election results, August 2011 primary",
+      "attribution" : "King County Elections",
+      "attributionLink" : "http://www.kingcounty.gov/elections",
+      "averageRating" : 0,
+      "category" : "Election results",
+      "createdAt" : 1313600739,
+      "description" : "Final Election results, August 2011 primary. To see when this was updated, click \"About\" on the far right of this page. (https://datakc.org/d/3twh-5u42)",
+      "displayType" : "table",
+      "downloadCount" : 434,
+      "indexUpdatedAt" : 1414523869,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : false,
+      "numberOfComments" : 1,
+      "oid" : 331634,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1313600739,
+      "publicationGroup" : 239590,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1314812193,
+      "rowsUpdatedBy" : "2gzv-6b6z",
+      "tableId" : 239590,
+      "totalTimesRated" : 0,
+      "viewCount" : 1289,
+      "viewLastModified" : 1381539451,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : 2815241,
+        "name" : "Race",
+        "dataTypeName" : "text",
+        "fieldName" : "race",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1508082,
+        "width" : 371,
+        "cachedContents" : {
+          "non_null" : 135,
+          "smallest" : "City of Burien Council Position No. 2 nonpartisan office",
+          "null" : 0,
+          "largest" : "Soos Creek Water and Sewer District Commissioner Position No. 1 nonpartisan office",
+          "top" : [ {
+            "count" : 20,
+            "item" : "King County Proposition No. 1 Veterans and Human Services Levy"
+          }, {
+            "count" : 19,
+            "item" : "Metropolitan King County Council District No. 6 nonpartisan office"
+          }, {
+            "count" : 18,
+            "item" : "Metropolitan King County Council District No. 8 nonpartisan office"
+          }, {
+            "count" : 17,
+            "item" : "Court of Appeals, Division No. 1, District No. 1"
+          }, {
+            "count" : 16,
+            "item" : "City of Burien Council Position No. 2 nonpartisan office"
+          }, {
+            "count" : 15,
+            "item" : "City of Burien Council Position No. 4 nonpartisan office"
+          }, {
+            "count" : 14,
+            "item" : "City of Federal Way Council Position No. 3 nonpartisan office"
+          }, {
+            "count" : 13,
+            "item" : "City of Lake Forest Park Mayor nonpartisan office"
+          }, {
+            "count" : 12,
+            "item" : "City of Kirkland Council Position No. 2 nonpartisan office"
+          }, {
+            "count" : 11,
+            "item" : "City of Kirkland Council Position No. 6 nonpartisan office"
+          }, {
+            "count" : 10,
+            "item" : "City of Kent Council Position No. 3 nonpartisan office"
+          }, {
+            "count" : 9,
+            "item" : "City of Kent Council Position No. 5 nonpartisan office"
+          }, {
+            "count" : 8,
+            "item" : "City of Kent Council Position No. 7 nonpartisan office"
+          }, {
+            "count" : 7,
+            "item" : "City of Milton Mayor nonpartisan office, unexpired 2-year term"
+          }, {
+            "count" : 6,
+            "item" : "City of Newcastle Council Position No. 4 nonpartisan office"
+          }, {
+            "count" : 5,
+            "item" : "City of Renton Council Position No. 5 nonpartisan office"
+          }, {
+            "count" : 4,
+            "item" : "City of Sammamish Council Position No. 4 nonpartisan office"
+          }, {
+            "count" : 3,
+            "item" : "City of Seattle Council Position No. 1 nonpartisan office"
+          }, {
+            "count" : 2,
+            "item" : "City of Seattle Council Position No. 9 nonpartisan office"
+          }, {
+            "count" : 1,
+            "item" : "City of Seattle Referendum 1"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 2822643,
+        "name" : "Registered voters",
+        "dataTypeName" : "number",
+        "description" : "Number of registered voters for this race",
+        "fieldName" : "registered_voters",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1511450,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 135,
+          "smallest" : "579",
+          "sum" : "14051176",
+          "null" : 0,
+          "average" : "104082.7851851852",
+          "largest" : "1094533",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1094533"
+          }, {
+            "count" : 19,
+            "item" : "121139"
+          }, {
+            "count" : 18,
+            "item" : "110649"
+          }, {
+            "count" : 17,
+            "item" : "22330"
+          }, {
+            "count" : 16,
+            "item" : "40722"
+          }, {
+            "count" : 15,
+            "item" : "9390"
+          }, {
+            "count" : 14,
+            "item" : "47724"
+          }, {
+            "count" : 13,
+            "item" : "50664"
+          }, {
+            "count" : 12,
+            "item" : "579"
+          }, {
+            "count" : 11,
+            "item" : "6203"
+          }, {
+            "count" : 10,
+            "item" : "42903"
+          }, {
+            "count" : 9,
+            "item" : "27268"
+          }, {
+            "count" : 8,
+            "item" : "379450"
+          }, {
+            "count" : 7,
+            "item" : "10121"
+          }, {
+            "count" : 6,
+            "item" : "7091"
+          }, {
+            "count" : 5,
+            "item" : "54328"
+          }, {
+            "count" : 4,
+            "item" : "59774"
+          }, {
+            "count" : 3,
+            "item" : "54421"
+          }, {
+            "count" : 2,
+            "item" : "53574"
+          }, {
+            "count" : 1,
+            "item" : "62428"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 2822645,
+        "name" : "Votes cast in this race",
+        "dataTypeName" : "number",
+        "description" : "Total number of ballots counted in this race",
+        "fieldName" : "votes_cast_in_this_race",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1511451,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 135,
+          "smallest" : "218",
+          "sum" : "4535759",
+          "null" : 0,
+          "average" : "33598.21481481481",
+          "largest" : "338255",
+          "top" : [ {
+            "count" : 20,
+            "item" : "338255"
+          }, {
+            "count" : 19,
+            "item" : "37748"
+          }, {
+            "count" : 18,
+            "item" : "38512"
+          }, {
+            "count" : 17,
+            "item" : "6867"
+          }, {
+            "count" : 16,
+            "item" : "10747"
+          }, {
+            "count" : 15,
+            "item" : "3958"
+          }, {
+            "count" : 14,
+            "item" : "13440"
+          }, {
+            "count" : 13,
+            "item" : "13066"
+          }, {
+            "count" : 12,
+            "item" : "218"
+          }, {
+            "count" : 11,
+            "item" : "1749"
+          }, {
+            "count" : 10,
+            "item" : "11104"
+          }, {
+            "count" : 9,
+            "item" : "6875"
+          }, {
+            "count" : 8,
+            "item" : "138108"
+          }, {
+            "count" : 7,
+            "item" : "2946"
+          }, {
+            "count" : 6,
+            "item" : "2073"
+          }, {
+            "count" : 5,
+            "item" : "20834"
+          }, {
+            "count" : 4,
+            "item" : "21550"
+          }, {
+            "count" : 3,
+            "item" : "20512"
+          }, {
+            "count" : 2,
+            "item" : "20991"
+          }, {
+            "count" : 1,
+            "item" : "16601"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 2815242,
+        "name" : " Choice",
+        "dataTypeName" : "text",
+        "fieldName" : "choice",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1508083,
+        "width" : 129,
+        "cachedContents" : {
+          "non_null" : 135,
+          "smallest" : "AGAINST THE FORMATION OF A TUKWILA POOL METROPOLITAN DISTRICT",
+          "null" : 0,
+          "largest" : "Write-in",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Write-in"
+          }, {
+            "count" : 19,
+            "item" : "Nick Esparza"
+          }, {
+            "count" : 18,
+            "item" : "Marty McLaren"
+          }, {
+            "count" : 17,
+            "item" : "Steve Sundquist"
+          }, {
+            "count" : 16,
+            "item" : "Joy Anderson"
+          }, {
+            "count" : 15,
+            "item" : "Danny Peterson"
+          }, {
+            "count" : 14,
+            "item" : "Elizabeth Drake"
+          }, {
+            "count" : 13,
+            "item" : "Carrie BeSerra"
+          }, {
+            "count" : 12,
+            "item" : "Stan Isenhath"
+          }, {
+            "count" : 11,
+            "item" : "Don Ellis"
+          }, {
+            "count" : 10,
+            "item" : "Eric Adman"
+          }, {
+            "count" : 9,
+            "item" : "Gabe DeBay"
+          }, {
+            "count" : 8,
+            "item" : "Jennifer C. Rydberg"
+          }, {
+            "count" : 7,
+            "item" : "Jim Callow"
+          }, {
+            "count" : 6,
+            "item" : "Bill Placek"
+          }, {
+            "count" : 5,
+            "item" : "Darold P. Doell"
+          }, {
+            "count" : 4,
+            "item" : "Sandy Hopp"
+          }, {
+            "count" : 3,
+            "item" : "Darren M. Yokers"
+          }, {
+            "count" : 2,
+            "item" : "Mike Cole"
+          }, {
+            "count" : 1,
+            "item" : "Darold Stroud"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 2815243,
+        "name" : " Votes",
+        "dataTypeName" : "number",
+        "fieldName" : "votes",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1508084,
+        "width" : 77,
+        "cachedContents" : {
+          "non_null" : 135,
+          "smallest" : "2",
+          "sum" : "1253933",
+          "null" : 0,
+          "average" : "9288.392592592593",
+          "largest" : "226785",
+          "top" : [ {
+            "count" : 20,
+            "item" : "34"
+          }, {
+            "count" : 19,
+            "item" : "333"
+          }, {
+            "count" : 18,
+            "item" : "878"
+          }, {
+            "count" : 17,
+            "item" : "2958"
+          }, {
+            "count" : 16,
+            "item" : "2724"
+          }, {
+            "count" : 15,
+            "item" : "3081"
+          }, {
+            "count" : 14,
+            "item" : "3452"
+          }, {
+            "count" : 13,
+            "item" : "84"
+          }, {
+            "count" : 12,
+            "item" : "14015"
+          }, {
+            "count" : 11,
+            "item" : "11518"
+          }, {
+            "count" : 10,
+            "item" : "7824"
+          }, {
+            "count" : 9,
+            "item" : "165"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 2815274,
+        "name" : " Percent",
+        "dataTypeName" : "percent",
+        "fieldName" : "percent",
+        "position" : 6,
+        "renderTypeName" : "percent",
+        "tableColumnId" : 1508087,
+        "width" : 138,
+        "cachedContents" : {
+          "non_null" : 135,
+          "smallest" : "0.387401044",
+          "sum" : "3299.999999987",
+          "null" : 0,
+          "average" : "24.44444444434815",
+          "largest" : "97.21441534",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1.068510371"
+          }, {
+            "count" : 19,
+            "item" : "2.464840859"
+          }, {
+            "count" : 18,
+            "item" : "6.498889711"
+          }, {
+            "count" : 17,
+            "item" : "21.89489267"
+          }, {
+            "count" : 16,
+            "item" : "20.16284234"
+          }, {
+            "count" : 15,
+            "item" : "22.80532939"
+          }, {
+            "count" : 14,
+            "item" : "25.55144338"
+          }, {
+            "count" : 13,
+            "item" : "0.621761658"
+          }, {
+            "count" : 12,
+            "item" : "41.80836466"
+          }, {
+            "count" : 11,
+            "item" : "34.35952509"
+          }, {
+            "count" : 10,
+            "item" : "23.33989619"
+          }, {
+            "count" : 9,
+            "item" : "0.492214068"
+          } ]
+        },
+        "format" : {
+          "view" : "percent_bar_and_text",
+          "precision" : "2",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "2gzv-6b6z",
+        "displayName" : "King County Webteam",
+        "profileImageUrlLarge" : "/api/users/2gzv-6b6z/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/2gzv-6b6z/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/2gzv-6b6z/profile_images/TINY",
+        "roleName" : "administrator",
+        "screenName" : "King County Webteam",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards", "manage_provenance", "create_story", "edit_story_title_desc", "create_story_copy", "delete_story", "manage_story_collaborators", "manage_story_visibility", "manage_story_public_version", "edit_story", "view_unpublished_story", "view_story", "view_all_dataset_status_logs" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "2gzv-6b6z",
+        "displayName" : "King County Webteam",
+        "profileImageUrlLarge" : "/api/users/2gzv-6b6z/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/2gzv-6b6z/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/2gzv-6b6z/profile_images/TINY",
+        "roleName" : "administrator",
+        "screenName" : "King County Webteam",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards", "manage_provenance", "create_story", "edit_story_title_desc", "create_story_copy", "delete_story", "manage_story_collaborators", "manage_story_visibility", "manage_story_public_version", "edit_story", "view_unpublished_story", "view_story", "view_all_dataset_status_logs" ]
+      },
+      "tags" : [ "elections", "vote", "voting", "results", "201108" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "E0C201A9-981D-428E-B16E-221B0F611C16", 1, 1314812192, "388831", 1314812192, "388831", "{\n}", "King County Proposition No. 1 Veterans and Human Services Levy", "1094533", "338255", "APPROVED", "226785", "68.99956188" ]
+, [ 2, "2DB3D034-6A6A-4D8B-BCD8-02034059F197", 2, 1314812192, "388831", 1314812192, "388831", "{\n}", "King County Proposition No. 1 Veterans and Human Services Levy", "1094533", "338255", "REJECTED", "101891", "31.00043812" ]
+, [ 3, "4A8A4830-0B42-4BAB-9632-CCAE36549752", 3, 1314812192, "388831", 1314812192, "388831", "{\n}", "Metropolitan King County Council District No. 6 nonpartisan office", "121139", "37748", "Patsy Bonincontri", "2591", "7.273594969" ]
+, [ 4, "2A301B31-D2D1-4595-B12D-889E3F9727A4", 4, 1314812192, "388831", 1314812192, "388831", "{\n}", "Metropolitan King County Council District No. 6 nonpartisan office", "121139", "37748", "Richard E. Mitchell", "10727", "30.11341306" ]
+, [ 5, "47FF989B-6BA1-42D6-BDF7-324CB5ADB445", 5, 1314812192, "388831", 1314812192, "388831", "{\n}", "Metropolitan King County Council District No. 6 nonpartisan office", "121139", "37748", "Jane Hague", "13511", "37.92880804" ]
+, [ 6, "FEE52508-7E08-400E-8CF6-2F297009BFF9", 6, 1314812192, "388831", 1314812192, "388831", "{\n}", "Metropolitan King County Council District No. 6 nonpartisan office", "121139", "37748", "John Creighton", "8655", "24.29678289" ]
+, [ 7, "AC7B8B87-609A-41A3-A1D2-6B7E4512E9C4", 7, 1314812192, "388831", 1314812192, "388831", "{\n}", "Metropolitan King County Council District No. 6 nonpartisan office", "121139", "37748", "Write-in", "138", "0.387401044" ]
+, [ 8, "5265AE58-5F97-4211-8F59-9868845F812A", 8, 1314812192, "388831", 1314812192, "388831", "{\n}", "Metropolitan King County Council District No. 8 nonpartisan office", "110649", "38512", "Joe McDermott", "24277", "68.2417428" ]
+, [ 9, "1131511F-793C-4B21-9CC2-9ED169611B34", 9, 1314812192, "388831", 1314812192, "388831", "{\n}", "Metropolitan King County Council District No. 8 nonpartisan office", "110649", "38512", "Goodspaceguy", "1667", "4.685874912" ]
+, [ 10, "B0891662-89C5-4095-AC91-BD0DD746C7BB", 10, 1314812192, "388831", 1314812192, "388831", "{\n}", "Metropolitan King County Council District No. 8 nonpartisan office", "110649", "38512", "Diana Toledo", "9440", "26.5354884" ]
+, [ 11, "4F3D06E4-FC7F-4E84-98FA-A8A4606861E2", 11, 1314812192, "388831", 1314812192, "388831", "{\n}", "Metropolitan King County Council District No. 8 nonpartisan office", "110649", "38512", "Write-in", "191", "0.536893886" ]
+, [ 12, "55E1D62B-5242-4EBA-9941-E097BE546284", 12, 1314812192, "388831", 1314812192, "388831", "{\n}", "Court of Appeals, Division No. 1, District No. 1", "1094533", "338255", "Michael Spearman", "214804", "97.21441534" ]
+, [ 13, "DB9EA593-3E99-4999-90B7-C9F1F157724B", 13, 1314812192, "388831", 1314812192, "388831", "{\n}", "Court of Appeals, Division No. 1, District No. 1", "1094533", "338255", "Write-in", "6155", "2.785584656" ]
+, [ 14, "66CC3988-2A44-4D87-A6BF-6B42A12C17DF", 14, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Burien Council Position No. 2 nonpartisan office", "22330", "6867", "Greg Duff", "1679", "26.33312422" ]
+, [ 15, "194C1EF2-87F4-4E02-A4DC-47BAFBA9A5ED", 15, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Burien Council Position No. 2 nonpartisan office", "22330", "6867", "Ed Dacy", "1547", "24.26286073" ]
+, [ 16, "0B62A64C-0C70-4957-AC43-32A7ADE21FAD", 16, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Burien Council Position No. 2 nonpartisan office", "22330", "6867", "Lucy Krakowiak", "3113", "48.82371393" ]
+, [ 17, "11345F1F-97C7-4637-BAE6-3A797CCE6EC6", 17, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Burien Council Position No. 2 nonpartisan office", "22330", "6867", "Write-in", "37", "0.580301129" ]
+, [ 18, "F4F1A16D-D761-4862-8D18-6F7F7FCEAA11", 18, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Burien Council Position No. 4 nonpartisan office", "22330", "6867", "Gordon M. Shaw", "2370", "37.94428434" ]
+, [ 19, "60877BD9-3511-4E1F-980E-F68C4DC2BAF9", 19, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Burien Council Position No. 4 nonpartisan office", "22330", "6867", "Joey Martinez", "1005", "16.09029779" ]
+, [ 20, "45B8C48B-85EE-4B80-92AA-9CD0FA2D028F", 20, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Burien Council Position No. 4 nonpartisan office", "22330", "6867", "Bob Edgar", "2812", "45.02081332" ]
+, [ 21, "039DE830-92BB-4DE9-8340-0DD0B7793F15", 21, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Burien Council Position No. 4 nonpartisan office", "22330", "6867", "Write-in", "59", "0.944604547" ]
+, [ 22, "C844F917-27AD-470D-9DE3-5FA3D111D8E9", 22, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Federal Way Council Position No. 3 nonpartisan office", "40722", "10747", "Mark Koppang", "2066", "20.6084788" ]
+, [ 23, "1E931E1E-F5C1-4A6C-A6BA-33FA9A48DAD2", 23, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Federal Way Council Position No. 3 nonpartisan office", "40722", "10747", "Roger Flygare", "2274", "22.68329177" ]
+, [ 24, "E0691F4D-7D36-413E-BBB2-6A1794D25127", 24, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Federal Way Council Position No. 3 nonpartisan office", "40722", "10747", "Susan Honda", "4787", "47.75062344" ]
+, [ 25, "AB5AF715-E1B3-428F-8B48-F8A7D8AC4492", 25, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Federal Way Council Position No. 3 nonpartisan office", "40722", "10747", "Scott M. Sparling", "826", "8.239401496" ]
+, [ 26, "C5AD8E70-B9E6-4E39-B45B-D7FEEA6BCE09", 26, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Federal Way Council Position No. 3 nonpartisan office", "40722", "10747", "Write-in", "72", "0.718204489" ]
+, [ 27, "AF50EC62-21A7-4F6B-BA4B-7EAD9C27B71A", 27, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Lake Forest Park Mayor nonpartisan office", "9390", "3958", "Dwight A. Thompson", "1814", "46.77668901" ]
+, [ 28, "0833CB98-F673-449D-A295-ECDA3E7FB990", 28, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Lake Forest Park Mayor nonpartisan office", "9390", "3958", "Mary Jane Goss", "1925", "49.63898917" ]
+, [ 29, "5B03B0E3-BD36-4814-8F65-9923D86FBC48", 29, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Lake Forest Park Mayor nonpartisan office", "9390", "3958", "Stan Lippmann", "114", "2.939659618" ]
+, [ 30, "82C4DDE4-64D1-4B78-AC8F-7D9FD48C5205", 30, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Lake Forest Park Mayor nonpartisan office", "9390", "3958", "Write-in", "25", "0.644662197" ]
+, [ 31, "802431B1-FD3C-4912-8BCB-D7381030062D", 31, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kirkland Council Position No. 2 nonpartisan office", "47724", "13440", "Bob Sternoff", "5429", "45.83755488" ]
+, [ 32, "888E1E5D-6916-4365-8AA4-64A4F8969D28", 32, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kirkland Council Position No. 2 nonpartisan office", "47724", "13440", "Jason Gardiner", "5712", "48.22695035" ]
+, [ 33, "9571F34A-C922-449E-A976-332357AD0A8E", 33, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kirkland Council Position No. 2 nonpartisan office", "47724", "13440", "Chuck Hinson", "624", "5.268490375" ]
+, [ 34, "FBF53B17-1C7E-4CE0-B233-4E0D37AE174E", 34, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kirkland Council Position No. 2 nonpartisan office", "47724", "13440", "Write-in", "79", "0.66700439" ]
+, [ 35, "6D6EAE07-FE90-40FB-9A3E-1A3A4FCCBCD8", 35, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kirkland Council Position No. 6 nonpartisan office", "47724", "13440", "Martin Morgan", "2566", "21.10370919" ]
+, [ 36, "F1D359E8-31C5-487F-AE93-40C7E843EE6E", 36, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kirkland Council Position No. 6 nonpartisan office", "47724", "13440", "Dave Asher", "6473", "53.23628588" ]
+, [ 37, "A6F2BA0B-1D99-47FF-A16C-45928A57164E", 37, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kirkland Council Position No. 6 nonpartisan office", "47724", "13440", "James A. (Jim) Hart", "3046", "25.05140225" ]
+, [ 38, "DF29C3A6-7983-47A9-B99E-9F7B9925AA01", 38, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kirkland Council Position No. 6 nonpartisan office", "47724", "13440", "Write-in", "74", "0.608602681" ]
+, [ 39, "AF3A1BE9-4AA2-49EF-A087-17FF2EABD0AD", 39, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kent Council Position No. 3 nonpartisan office", "50664", "13066", "Les Thomas", "5908", "48.66156" ]
+, [ 40, "9BB7CD6D-4D88-4738-90C5-337F417F1E4E", 40, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kent Council Position No. 3 nonpartisan office", "50664", "13066", "Nancy Skorupa", "3499", "28.81970184" ]
+, [ 41, "03EAD63B-E681-480C-BD9B-966B6B422BC9", 41, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kent Council Position No. 3 nonpartisan office", "50664", "13066", "Jim Bennett", "2660", "21.90923318" ]
+, [ 42, "B2AFF483-A8BA-4BB4-8F91-9788FDCB43F8", 42, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kent Council Position No. 3 nonpartisan office", "50664", "13066", "Write-in", "74", "0.609504983" ]
+, [ 43, "0381E491-11A1-48FA-A8EA-2B294CA994CB", 43, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kent Council Position No. 5 nonpartisan office", "50664", "13066", "Charles Lambert", "2743", "22.740839" ]
+, [ 44, "BA94A9BE-E8E9-49BC-A18D-3AE99E9580F7", 44, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kent Council Position No. 5 nonpartisan office", "50664", "13066", "Gwen Allen", "1785", "14.79854087" ]
+, [ 45, "EFB4F3DE-8B7D-4333-B78A-DA40E696F4B8", 45, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kent Council Position No. 5 nonpartisan office", "50664", "13066", "Debbie Raplee", "3259", "27.01873653" ]
+, [ 46, "FB82757B-6EB5-4847-B025-B0C621F2F06B", 46, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kent Council Position No. 5 nonpartisan office", "50664", "13066", "Bill Boyce", "4221", "34.99419665" ]
+, [ 47, "C409D75C-1F1B-443C-90C6-D614092DB080", 47, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kent Council Position No. 5 nonpartisan office", "50664", "13066", "Write-in", "54", "0.447686951" ]
+, [ 48, "19513843-912F-404F-9D33-C01A5583EB31", 48, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kent Council Position No. 7 nonpartisan office", "50664", "13066", "Dana Ralph", "5007", "42.23534374" ]
+, [ 49, "86B3AEBA-76E3-4A9C-A472-4DBEA48601C5", 49, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kent Council Position No. 7 nonpartisan office", "50664", "13066", "Michael S. Sealfon", "3995", "33.69886124" ]
+, [ 50, "9D472F8D-1F36-456C-8725-9E5A9322136A", 50, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kent Council Position No. 7 nonpartisan office", "50664", "13066", "Suzanne Smith", "2793", "23.55967946" ]
+, [ 51, "AF323CAF-E84C-4506-B6E4-13DECABE79D9", 51, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Kent Council Position No. 7 nonpartisan office", "50664", "13066", "Write-in", "60", "0.506115563" ]
+, [ 52, "F64198EB-13E0-43F4-BF70-143CA892782F", 52, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Milton Mayor nonpartisan office, unexpired 2-year term", "579", "218", "Caleb Lewis", "45", "20.73732719" ]
+, [ 53, "A759FB41-9B57-4D30-88E1-F9CEF6597B1A", 53, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Milton Mayor nonpartisan office, unexpired 2-year term", "579", "218", "Leonard Sanderson", "59", "27.18894009" ]
+, [ 54, "1C3C44FF-797E-4D9C-8330-3C4E8C8591B3", 54, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Milton Mayor nonpartisan office, unexpired 2-year term", "579", "218", "Debra Perry", "111", "51.15207373" ]
+, [ 55, "AC21C1DF-44FD-488A-B2C9-FCA508896873", 55, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Milton Mayor nonpartisan office, unexpired 2-year term", "579", "218", "Write-in", "2", "0.921658986" ]
+, [ 56, "6476FD76-2013-4ADC-96C0-A28CBD0FBDF0", 56, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Newcastle Council Position No. 4 nonpartisan office", "6203", "1749", "Andrew T. Shelton", "95", "5.846153846" ]
+, [ 57, "ACF9505E-9A08-4364-AE21-9EB61597A8A0", 57, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Newcastle Council Position No. 4 nonpartisan office", "6203", "1749", "Frank Irigon", "373", "22.95384615" ]
+, [ 58, "8F1ED271-729C-436F-9364-B732ED8B4A9E", 58, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Newcastle Council Position No. 4 nonpartisan office", "6203", "1749", "Gordon A. Bisset", "1145", "70.46153846" ]
+, [ 59, "701486EC-E747-46B6-A3E2-A26944AB0E2E", 59, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Newcastle Council Position No. 4 nonpartisan office", "6203", "1749", "Write-in", "12", "0.738461538" ]
+, [ 60, "4E03C8D6-26F8-454E-8E86-E3A08AB8534F", 60, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Renton Council Position No. 5 nonpartisan office", "42903", "11104", "Mark Martinez", "2942", "28.33750722" ]
+, [ 61, "C890CF6F-01E7-43DD-AC28-4AF4BC9D4FF1", 61, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Renton Council Position No. 5 nonpartisan office", "42903", "11104", "Ed Prince", "4249", "40.92660374" ]
+, [ 62, "DA69582D-CCE0-4D2E-A7E7-DAFBBC3C6D1B", 62, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Renton Council Position No. 5 nonpartisan office", "42903", "11104", "Robin H. Jones", "3141", "30.25428626" ]
+, [ 63, "741B133E-A8A3-4B5C-8A67-055484698EB9", 63, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Renton Council Position No. 5 nonpartisan office", "42903", "11104", "Write-in", "50", "0.481602774" ]
+, [ 64, "903FB869-0476-4E19-9B3D-E55C155D4F9A", 64, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Sammamish Council Position No. 4 nonpartisan office", "27268", "6875", "Jim Wasnick", "1791", "28.05011746" ]
+, [ 65, "E1BB884D-CDB9-454F-B926-EFF1000FB72F", 65, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Sammamish Council Position No. 4 nonpartisan office", "27268", "6875", "John Galvin", "1584", "24.80814409" ]
+, [ 66, "7DD99A36-6536-4FA7-AECB-CADB4A9D5BE7", 66, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Sammamish Council Position No. 4 nonpartisan office", "27268", "6875", "Ramiro Valderrama", "2939", "46.02975724" ]
+, [ 67, "1B7CE398-4703-43FE-BB7F-F909867C19FC", 67, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Sammamish Council Position No. 4 nonpartisan office", "27268", "6875", "Write-in", "71", "1.111981206" ]
+, [ 68, "20DE9BA3-D460-407C-85D2-F1824932C8A3", 68, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Seattle Council Position No. 1 nonpartisan office", "379450", "138108", "Michael Taylor-Judd", "15599", "12.70328596" ]
+, [ 69, "035284C4-C3FB-4654-9A45-BCBB58B4BCD2", 69, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Seattle Council Position No. 1 nonpartisan office", "379450", "138108", "Maurice Classen", "21188", "17.25477422" ]
+, [ 70, "61A9A0F7-4796-4CF3-801B-AD4AB593B568", 70, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Seattle Council Position No. 1 nonpartisan office", "379450", "138108", "Jean Godden", "53216", "43.33726943" ]
+, [ 71, "5E69A764-0ECA-47BC-B912-29C1AF383520", 71, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Seattle Council Position No. 1 nonpartisan office", "379450", "138108", "Bobby Forch", "32027", "26.08168085" ]
+, [ 72, "FB2FEFFE-F14B-4C2C-9AC2-51E5530E4ACC", 72, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Seattle Council Position No. 1 nonpartisan office", "379450", "138108", "Write-in", "765", "0.622989535" ]
+, [ 73, "6F2578C0-318B-4EC3-9C7B-08B6BB142615", 73, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Seattle Council Position No. 9 nonpartisan office", "379450", "138108", "Fathi Karshie", "5678", "4.825974247" ]
+, [ 74, "0668A5F6-B9E6-4C9E-A0C7-7C5F2756B3BD", 74, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Seattle Council Position No. 9 nonpartisan office", "379450", "138108", "Sally J. Clark", "84955", "72.20687604" ]
+, [ 75, "392E1C25-B1E3-4F3D-A208-D645A9F8D8E6", 75, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Seattle Council Position No. 9 nonpartisan office", "379450", "138108", "Dian Ferguson", "25798", "21.92681994" ]
+, [ 76, "A77215B8-2927-4039-8802-05C7064FF381", 76, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Seattle Council Position No. 9 nonpartisan office", "379450", "138108", "Write-in", "1224", "1.040329778" ]
+, [ 77, "77023543-455F-4223-92DE-28B31257051E", 77, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Seattle Referendum 1", "379450", "138108", "APPROVED", "78767", "58.23032794" ]
+, [ 78, "BB02B86E-919B-43ED-A1E9-B3FB7C481A2B", 78, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Seattle Referendum 1", "379450", "138108", "REJECTED", "56501", "41.76967206" ]
+, [ 79, "1247F9DD-D567-4A4C-8C84-FC8F829EAF87", 79, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of SeaTac Council Position No. 3 nonpartisan office", "10121", "2946", "Othman Heibe", "592", "20.94833687" ]
+, [ 80, "C666D4A5-AE3C-4F92-A99C-943B2444770B", 80, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of SeaTac Council Position No. 3 nonpartisan office", "10121", "2946", "Terry Anderson", "1556", "55.0601557" ]
+, [ 81, "A60E08F7-122C-45FA-B605-C89B48E80521", 81, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of SeaTac Council Position No. 3 nonpartisan office", "10121", "2946", "Sandra Cook-Bensley", "631", "22.32837933" ]
+, [ 82, "F2AE586F-C6FA-40A7-8760-D3295EE5F61A", 82, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of SeaTac Council Position No. 3 nonpartisan office", "10121", "2946", "Write-in", "47", "1.663128096" ]
+, [ 83, "DC92A626-7804-4E9C-9434-E2FD810AC18A", 83, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Tukwila Council Position No. 6 nonpartisan office", "7091", "2073", "Ruth Sanoy", "141", "7.496012759" ]
+, [ 84, "26A7A046-8033-4BBC-AF56-F90C0F9099D1", 84, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Tukwila Council Position No. 6 nonpartisan office", "7091", "2073", "Louise H. Strander", "1039", "55.23657629" ]
+, [ 85, "C6BC545A-90FD-4A08-A3EA-15D1ADAB56FB", 85, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Tukwila Council Position No. 6 nonpartisan office", "7091", "2073", "Kate Kruller", "686", "36.46996279" ]
+, [ 86, "348E8480-AAAF-458A-BD56-BC938E7CDAE3", 86, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Tukwila Council Position No. 6 nonpartisan office", "7091", "2073", "Write-in", "15", "0.797448166" ]
+, [ 87, "B14A5589-48BC-463D-96FD-EEAD82139AF0", 87, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Tukwila Proposition No. 1 Formation and Funding of Tukwila Pool Metropolitan Park District", "7091", "2073", "FOR THE FORMATION OF A TUKWILA POOL METROPOLITAN DISTRICT TO BE GOVERNED BY THE TUKWILA CITY COUNCIL, SERVING AS THE BOARD OF COMMISSIONERS", "1275", "62.4082232" ]
+, [ 88, "D2BC89C9-C365-44F2-B63C-52E1653F775F", 88, 1314812192, "388831", 1314812192, "388831", "{\n}", "City of Tukwila Proposition No. 1 Formation and Funding of Tukwila Pool Metropolitan Park District", "7091", "2073", "AGAINST THE FORMATION OF A TUKWILA POOL METROPOLITAN DISTRICT", "768", "37.5917768" ]
+, [ 89, "3F01CA45-B82E-409E-883C-110E901AEE62", 89, 1314812192, "388831", 1314812192, "388831", "{\n}", "Seattle School District No. 1 Director District No. 1 nonpartisan office", "54328", "20834", "John Cummings", "1777", "10.16706717" ]
+, [ 90, "D42B39A6-A40F-4547-8D9A-AFBFE58E7508", 90, 1314812192, "388831", 1314812192, "388831", "{\n}", "Seattle School District No. 1 Director District No. 1 nonpartisan office", "54328", "20834", "Peter Maier", "8976", "51.35599039" ]
+, [ 91, "F017908A-D793-4618-BEE4-0A073F5D0130", 91, 1314812192, "388831", 1314812192, "388831", "{\n}", "Seattle School District No. 1 Director District No. 1 nonpartisan office", "54328", "20834", "Sharon Peaslee", "6603", "37.77892207" ]
+, [ 92, "9F7CDD25-B731-4649-8808-A10BABEEDC7D", 92, 1314812192, "388831", 1314812192, "388831", "{\n}", "Seattle School District No. 1 Director District No. 1 nonpartisan office", "54328", "20834", "Write-in", "122", "0.698020368" ]
+, [ 93, "138C8485-753F-4FA7-B535-7FE178178C76", 93, 1314812192, "388831", 1314812192, "388831", "{\n}", "Seattle School District No. 1 Director District No. 2 nonpartisan office", "59774", "21550", "Jack Whelan", "2927", "17.16614861" ]
+, [ 94, "10642306-50CC-4311-B456-ECE0912B0C20", 94, 1314812192, "388831", 1314812192, "388831", "{\n}", "Seattle School District No. 1 Director District No. 2 nonpartisan office", "59774", "21550", "Terrence J. Menage", "889", "5.213770453" ]
+, [ 95, "21BDC487-337D-4714-958C-6DB25E8DA68F", 95, 1314812192, "388831", 1314812192, "388831", "{\n}", "Seattle School District No. 1 Director District No. 2 nonpartisan office", "59774", "21550", "Mark T. Weber", "777", "4.556917483" ]
+, [ 96, "06F6A674-D1ED-4A51-AB7B-23BD17C8D8E7", 96, 1314812192, "388831", 1314812192, "388831", "{\n}", "Seattle School District No. 1 Director District No. 2 nonpartisan office", "59774", "21550", "Sherry Carr", "6781", "39.76892851" ]
+, [ 97, "56C47E76-7037-4FC2-AB6D-2058920CF150", 97, 1314812192, "388831", 1314812192, "388831", "{\n}", "Seattle School District No. 1 Director District No. 2 nonpartisan office", "59774", "21550", "Kate Martin", "5548", "32.53768107" ]
+, [ 98, "CF63D618-9C4C-4B98-94C0-C0E4B2659947", 98, 1314812192, "388831", 1314812192, "388831", "{\n}", "Seattle School District No. 1 Director District No. 2 nonpartisan office", "59774", "21550", "Write-in", "129", "0.756553868" ]
+, [ 99, "A807BC33-130F-4B26-B82F-EF2518A69986", 99, 1314812192, "388831", 1314812192, "388831", "{\n}", "Seattle School District No. 1 Director District No. 3 nonpartisan office", "54421", "20512", "John Dunn", "4557", "27.23523787" ]
+, [ 100, "50132212-FB4B-4871-98BB-8C54303B9BA4", 100, 1314812192, "388831", 1314812192, "388831", "{\n}", "Seattle School District No. 1 Director District No. 3 nonpartisan office", "54421", "20512", "David Blomstrom", "442", "2.641644753" ]
+, [ 101, "FEB86771-433F-431A-9FCE-FBD256DE7905", 101, 1314812192, "388831", 1314812192, "388831", "{\n}", "Seattle School District No. 1 Director District No. 3 nonpartisan office", "54421", "20512", "Harium Martin-Morris", "6883", "41.13674396" ]
+, [ 102, "775A8AAC-AC0F-44C8-9962-BB9E328EBCC2", 102, 1314812192, "388831", 1314812192, "388831", "{\n}", "Seattle School District No. 1 Director District No. 3 nonpartisan office", "54421", "20512", "Michelle Buetow", "4729", "28.26320822" ]
+, [ 103, "34253644-5658-4448-9593-44B65D4F98D9", 103, 1314812192, "388831", 1314812192, "388831", "{\n}", "Seattle School District No. 1 Director District No. 3 nonpartisan office", "54421", "20512", "Write-in", "121", "0.723165192" ]
+, [ 104, "5A7AE641-B1FD-4702-9117-54A64D39244A", 104, 1314812192, "388831", 1314812192, "388831", "{\n}", "Seattle School District No. 1 Director District No. 6 nonpartisan office", "53574", "20991", "Nick Esparza", "699", "4.039761891" ]
+, [ 105, "43BD5873-2B22-42F5-8129-09923E67F7AE", 105, 1314812192, "388831", 1314812192, "388831", "{\n}", "Seattle School District No. 1 Director District No. 6 nonpartisan office", "53574", "20991", "Marty McLaren", "5223", "30.18551696" ]
+, [ 106, "ED081279-4BA9-4AA8-AD4A-D17E5EBDD84B", 106, 1314812192, "388831", 1314812192, "388831", "{\n}", "Seattle School District No. 1 Director District No. 6 nonpartisan office", "53574", "20991", "Steve Sundquist", "7478", "43.21793909" ]
+, [ 107, "B9232AEB-9A96-4808-B975-EA0254D1B657", 107, 1314812192, "388831", 1314812192, "388831", "{\n}", "Seattle School District No. 1 Director District No. 6 nonpartisan office", "53574", "20991", "Joy Anderson", "3783", "21.86326071" ]
+, [ 108, "E3A2882E-1B72-4A45-B971-3644D68691C9", 108, 1314812192, "388831", 1314812192, "388831", "{\n}", "Seattle School District No. 1 Director District No. 6 nonpartisan office", "53574", "20991", "Write-in", "120", "0.693521355" ]
+, [ 109, "DF68F118-93F2-4C69-94E5-17CF4B56C50A", 109, 1314812192, "388831", 1314812192, "388831", "{\n}", "Federal Way School District No. 210 Director District No. 3 nonpartisan office", "62428", "16601", "Danny Peterson", "5344", "36.11054801" ]
+, [ 110, "92DAED0A-F080-4D5C-8502-8519845A12BC", 110, 1314812192, "388831", 1314812192, "388831", "{\n}", "Federal Way School District No. 210 Director District No. 3 nonpartisan office", "62428", "16601", "Elizabeth Drake", "7007", "47.34779377" ]
+, [ 111, "A22A9262-BDD5-4058-99FE-AF9EF343D031", 111, 1314812192, "388831", 1314812192, "388831", "{\n}", "Federal Way School District No. 210 Director District No. 3 nonpartisan office", "62428", "16601", "Carrie BeSerra", "2325", "15.71052098" ]
+, [ 112, "46214A41-3309-4800-BBEE-DD17B3A1BB41", 112, 1314812192, "388831", 1314812192, "388831", "{\n}", "Federal Way School District No. 210 Director District No. 3 nonpartisan office", "62428", "16601", "Write-in", "123", "0.831137239" ]
+, [ 113, "F5F43B0A-B742-44C3-AE8B-2E53661878E5", 113, 1314812192, "388831", 1314812192, "388831", "{\n}", "King County Fire Protection District No. 16 Commissioner Position No. 1 nonpartisan office", "23325", "7793", "Stan Isenhath", "631", "9.813374806" ]
+, [ 114, "C2C0B975-F436-4363-ADA8-32D8B00FF1CF", 114, 1314812192, "388831", 1314812192, "388831", "{\n}", "King County Fire Protection District No. 16 Commissioner Position No. 1 nonpartisan office", "23325", "7793", "Don Ellis", "2194", "34.12130638" ]
+, [ 115, "0FBF0090-A898-4992-A55B-DF250BED7D2F", 115, 1314812192, "388831", 1314812192, "388831", "{\n}", "King County Fire Protection District No. 16 Commissioner Position No. 1 nonpartisan office", "23325", "7793", "Eric Adman", "3557", "55.31881804" ]
+, [ 116, "B016740A-6695-4CCE-B199-10016712943A", 116, 1314812192, "388831", 1314812192, "388831", "{\n}", "King County Fire Protection District No. 16 Commissioner Position No. 1 nonpartisan office", "23325", "7793", "Write-in", "48", "0.746500778" ]
+, [ 117, "8770FCDC-A844-401B-98CD-E4B3D2F2BFDC", 117, 1314812192, "388831", 1314812192, "388831", "{\n}", "King County Fire Protection District No. 43 Commissioner Position No. 4 nonpartisan office, short and full term", "23195", "6275", "Gabe DeBay", "2424", "44.63266433" ]
+, [ 118, "9AED803A-1E7C-4C46-9E62-E7CD9EF1282A", 118, 1314812192, "388831", 1314812192, "388831", "{\n}", "King County Fire Protection District No. 43 Commissioner Position No. 4 nonpartisan office, short and full term", "23195", "6275", "Jennifer C. Rydberg", "1906", "35.094826" ]
+, [ 119, "43A5C7A7-6B32-4250-B2A9-C07C225E1966", 119, 1314812192, "388831", 1314812192, "388831", "{\n}", "King County Fire Protection District No. 43 Commissioner Position No. 4 nonpartisan office, short and full term", "23195", "6275", "Jim Callow", "1047", "19.27821764" ]
+, [ 120, "0492D63E-6C22-4D9F-AC6B-C61209DB0585", 120, 1314812192, "388831", 1314812192, "388831", "{\n}", "King County Fire Protection District No. 43 Commissioner Position No. 4 nonpartisan office, short and full term", "23195", "6275", "Write-in", "54", "0.994292027" ]
+, [ 121, "043FAB09-BCCA-4C57-8A1B-0CB06EEFE3F3", 121, 1314812192, "388831", 1314812192, "388831", "{\n}", "King County Water District No. 20 Commissioner Position No. 3 nonpartisan office, unexpired 4-year term", "13686", "3658", "Bill Placek", "1099", "34.5380264" ]
+, [ 122, "6D6BE43B-A907-46D0-BD99-A271DB7D4744", 122, 1314812192, "388831", 1314812192, "388831", "{\n}", "King County Water District No. 20 Commissioner Position No. 3 nonpartisan office, unexpired 4-year term", "13686", "3658", "Darold P. Doell", "1290", "40.54054054" ]
+, [ 123, "774A5999-B093-429A-8C02-D9F3348E2BC4", 123, 1314812192, "388831", 1314812192, "388831", "{\n}", "King County Water District No. 20 Commissioner Position No. 3 nonpartisan office, unexpired 4-year term", "13686", "3658", "Sandy Hopp", "759", "23.85292269" ]
+, [ 124, "7403D626-943F-4DB4-A379-49E1D1456B59", 124, 1314812192, "388831", 1314812192, "388831", "{\n}", "King County Water District No. 20 Commissioner Position No. 3 nonpartisan office, unexpired 4-year term", "13686", "3658", "Write-in", "34", "1.068510371" ]
+, [ 125, "7A740152-4487-4F4E-91E0-89DF119E3B8A", 125, 1314812192, "388831", 1314812192, "388831", "{\n}", "Soos Creek Water and Sewer District Commissioner Position No. 1 nonpartisan office", "61388", "15635", "Darren M. Yokers", "333", "2.464840859" ]
+, [ 126, "939D6399-037F-4C2B-BD34-7CA102C53A4A", 126, 1314812192, "388831", 1314812192, "388831", "{\n}", "Soos Creek Water and Sewer District Commissioner Position No. 1 nonpartisan office", "61388", "15635", "Mike Cole", "878", "6.498889711" ]
+, [ 127, "9D869E5C-36ED-4A9A-9DDC-83D6C9FBC274", 127, 1314812192, "388831", 1314812192, "388831", "{\n}", "Soos Creek Water and Sewer District Commissioner Position No. 1 nonpartisan office", "61388", "15635", "Darold Stroud", "2958", "21.89489267" ]
+, [ 128, "A03945A1-4918-47B5-BB9D-367786689E31", 128, 1314812192, "388831", 1314812192, "388831", "{\n}", "Soos Creek Water and Sewer District Commissioner Position No. 1 nonpartisan office", "61388", "15635", "Rachelle Weiler", "2724", "20.16284234" ]
+, [ 129, "851D8D30-243A-4012-8162-2F9337E0BF6B", 129, 1314812192, "388831", 1314812192, "388831", "{\n}", "Soos Creek Water and Sewer District Commissioner Position No. 1 nonpartisan office", "61388", "15635", "Larry West", "3081", "22.80532939" ]
+, [ 130, "CC3C0A0D-0863-4CC3-BE6D-FEC645CB4233", 130, 1314812192, "388831", 1314812192, "388831", "{\n}", "Soos Creek Water and Sewer District Commissioner Position No. 1 nonpartisan office", "61388", "15635", "Steve Pfaff", "3452", "25.55144338" ]
+, [ 131, "B6CD45F0-B0CA-4420-B27D-4646FB82E507", 131, 1314812192, "388831", 1314812192, "388831", "{\n}", "Soos Creek Water and Sewer District Commissioner Position No. 1 nonpartisan office", "61388", "15635", "Write-in", "84", "0.621761658" ]
+, [ 132, "F77D3E8D-CA59-4C1F-B1E6-FD2907B7E5F1", 132, 1314812192, "388831", 1314812192, "388831", "{\n}", "Public Hospital District No. 1 Commissioner District No. 1 nonpartisan office", "140886", "36993", "Paul Joos", "14015", "41.80836466" ]
+, [ 133, "8EC2B106-5B69-4BFB-8716-BAA22040F9C8", 133, 1314812192, "388831", 1314812192, "388831", "{\n}", "Public Hospital District No. 1 Commissioner District No. 1 nonpartisan office", "140886", "36993", "Mary Alice Heuschel", "11518", "34.35952509" ]
+, [ 134, "9B60B82D-4DCB-4FC8-A3F9-C7CB64AB21A6", 134, 1314812192, "388831", 1314812192, "388831", "{\n}", "Public Hospital District No. 1 Commissioner District No. 1 nonpartisan office", "140886", "36993", "Jim Grossnickle", "7824", "23.33989619" ]
+, [ 135, "2B957BE1-48C3-4E74-BF80-8D3242586D76", 135, 1314812192, "388831", 1314812192, "388831", "{\n}", "Public Hospital District No. 1 Commissioner District No. 1 nonpartisan office", "140886", "36993", "Write-in", "165", "0.492214068" ]
+ ]
+}

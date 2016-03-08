@@ -1,0 +1,54 @@
+{
+  "@type": "dcat:Dataset",
+  "accessLevel": "public",
+  "contactPoint": {
+    "@type": "vcard:Contact",
+    "fn": "<Nobody>"
+  },
+  "description": "Updated Dec 4, 2012",
+  "distribution": [
+    {
+      "@type": "dcat:Distribution",
+      "downloadURL": "https://data.kingcounty.gov/api/views/u6ig-5qm8/rows.csv?accessType=DOWNLOAD",
+      "mediaType": "text/csv"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "describedBy": "https://data.kingcounty.gov/api/views/u6ig-5qm8/columns.rdf",
+      "describedByType": "application/rdf+xml",
+      "downloadURL": "https://data.kingcounty.gov/api/views/u6ig-5qm8/rows.rdf?accessType=DOWNLOAD",
+      "mediaType": "application/rdf+xml"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "describedBy": "https://data.kingcounty.gov/api/views/u6ig-5qm8/columns.json",
+      "describedByType": "application/json",
+      "downloadURL": "https://data.kingcounty.gov/api/views/u6ig-5qm8/rows.json?accessType=DOWNLOAD",
+      "mediaType": "application/json"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "describedBy": "https://data.kingcounty.gov/api/views/u6ig-5qm8/columns.xml",
+      "describedByType": "application/xml",
+      "downloadURL": "https://data.kingcounty.gov/api/views/u6ig-5qm8/rows.xml?accessType=DOWNLOAD",
+      "mediaType": "application/xml"
+    }
+  ],
+  "identifier": "https://data.kingcounty.gov/api/views/u6ig-5qm8",
+  "issued": "2012-12-04",
+  "keyword": [
+    "king county",
+    "elections",
+    "2012",
+    "general election"
+  ],
+  "landingPage": "https://data.kingcounty.gov/d/u6ig-5qm8",
+  "modified": "2014-10-28",
+  "publisher":
+  {
+    "@type": "org:Organization",
+    "name": "data.kingcounty.gov"
+  },
+  "theme": ["Election results"],
+  "title": "2012 General Election ecanvass"
+}
