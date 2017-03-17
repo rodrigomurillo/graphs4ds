@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/project-name" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: r1m4n
-github_username:  mansilla
+github_username :  mansilla
 
 # Build settings
 # aarkdown: kramdown
